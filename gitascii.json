@@ -79,36 +79,12 @@
       "zIndex": 3
     },
     {
-      "instanceId": "widget_1789071947419",
-      "widgetId": "premium-ascii-coding-velocity",
-      "name": "Premium-ascii-coding-velocity Widget",
-      "position": {
-        "x": 0,
-        "y": 680
-      },
-      "size": {
-        "width": 400,
-        "height": 160
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
-    },
-    {
       "instanceId": "widget_1789072015028",
       "widgetId": "godprofile-marquee",
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 856
+        "y": 864
       },
       "size": {
         "width": 800,
@@ -127,7 +103,7 @@
       "name": "Godprofile-neural Widget",
       "position": {
         "x": 0,
-        "y": 912
+        "y": 928
       },
       "size": {
         "width": 800,
@@ -154,7 +130,8 @@
       },
       "config": {
         "layoutType": "hero",
-        "accentColor": "#00A7D1"
+        "accentColor": "#00A7D1",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -165,12 +142,12 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 400,
-        "y": 688
+        "x": 0,
+        "y": 676
       },
       "size": {
-        "width": 384,
-        "height": 144
+        "width": 792,
+        "height": 204
       },
       "config": {
         "accentColor": "#ffa657"
